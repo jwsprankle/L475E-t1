@@ -1,0 +1,6 @@
+{
+    "stm32-for-vscode.openOCDPath": "C:\\DEV\\TOOL-CHAINS\\OPENOCD-20210519-0.11.0\\BIN\\OPENOCD.EXE",
+    "stm32-for-vscode.armToolchainPath": "C:\\DEV\\TOOL-CHAINS\\10 2020-Q4-MAJOR\\BIN",
+    "cortex-debug.armToolchainPath": "C:\\DEV\\TOOL-CHAINS\\10 2020-Q4-MAJOR\\BIN",
+    "cortex-debug.openocdPath": "C:\\DEV\\TOOL-CHAINS\\OPENOCD-20210519-0.11.0\\BIN\\OPENOCD.EXE"
+}
